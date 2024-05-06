@@ -1,11 +1,11 @@
 ## Installation
-  - ** git clone https://github.com/Rauf54/iOS-Assessment-Task
-  - ** cd YOUR-PROJECT-FOLDER
-  - ** pod install
-  - ** open Assessment iOS.xcworkspace
+  - git clone https://github.com/Rauf54/iOS-Assessment-Task.git
+  - cd YOUR-PROJECT-FOLDER
+  - pod install
+  - open Assessment iOS.xcworkspace
 
 ## Language Used
- - ** Swift 5
+ - Swift 5
 
  ## Architectures
    This project follows the VIPER architecture pattern, which stands for View, Interactor, Presenter, Entity, and Routing. VIPER is a design pattern commonly used in iOS development for building scalable and maintainable applications.
